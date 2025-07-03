@@ -45,5 +45,4 @@ A fully structured SQL database system designed for **PHARMAWORLD**, a veterinar
 2. Execute `Data and tables.sql` to create and populate the database.
 3. Execute `SQLQuery2project.sql` to create views and run analytics.
 
-## 📁 File Structure
 
